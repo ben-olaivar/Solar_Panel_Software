@@ -5,9 +5,9 @@
         transceiver used is the nRF24L01+, and it operates using the
         TMRh20 RF24 library.
  *                                                                       *
-        Author: B.D. Fraser
+      	Ben Olaivar
  *                                                                       *
-          Last modified: 27/06/2017
+          Last modified: 12/12/2021
  *                                                                       *
  *************************************************************************/
 
